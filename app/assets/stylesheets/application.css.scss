@@ -71,8 +71,16 @@ h1, h2, h3 {
   color: white;
 }
 
-.alert-notice {
-  display: none;
+.flashcontainer {
+    position: absolute;
+    width: 100%;
+}
+
+.alert-notice, .alert-alert {
+  text-align: center;
+  background: rgba(255, 255, 255, 0.16);
+  border-color: rgba(255, 255, 255, 0.44);
+  margin-top: -15px;
 }
 
 .home-signup-links {
