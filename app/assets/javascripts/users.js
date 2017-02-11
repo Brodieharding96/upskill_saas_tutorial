@@ -2,16 +2,10 @@
 //Document ready.
 $(document).on('turbolinks:load', function(){
   var theForm = $('#pro_form');
-  var submitBtn = $('#form-submit-btn-pro');
-  var submitBtnBasic = $('#form-submit-btn');
+  var submitBtn = $('#form-submit-btn');
   //Set Stripe public key.
   Stripe.setPublishableKey( $('meta[name="stripe-key"]').attr('content') );
-  //When user clicks form submit btn BASIC.
-  submitBtnBasic.click(function(event){
-    //prevent default submission behavior.
-    event.preventDefault();
-    submitBtnBasic.val("Processing").prop('disabled', true);
-  //When user clicks form submit btn PRO.
+  //When user clicks form submit btn,
   submitBtn.click(function(event){
     //prevent default submission behavior.
     event.preventDefault();

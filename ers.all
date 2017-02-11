@@ -1,0 +1,289 @@
+********************************* 1. row *********************************
+                    id: 1
+                 email: test@example.com
+    encrypted_password: $2a$11$3oBjIyOtocXtRvRvmMeBJulrjieOxOZZW40m6cFHOyAqtfgWUuNK6
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-09 11:10:38 UTC
+       last_sign_in_at: 2017-02-09 11:10:38 UTC
+    current_sign_in_ip: 49.193.25.189
+       last_sign_in_ip: 49.193.25.189
+            created_at: 2017-02-09 11:10:38 UTC
+            updated_at: 2017-02-09 11:10:38 UTC
+               plan_id: 2
+ stripe_customer_token: cus_A5QgA8xFEgpqSO
+********************************* 2. row *********************************
+                    id: 2
+                 email: brodie@harding.com
+    encrypted_password: $2a$11$VBldscgjWyNeJ9IVh44Viebd4KrLp8gsOMCZSpNWk/BUiIQE1lIOC
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-10 05:36:10 UTC
+       last_sign_in_at: 2017-02-10 05:36:10 UTC
+    current_sign_in_ip: 49.193.25.189
+       last_sign_in_ip: 49.193.25.189
+            created_at: 2017-02-10 05:36:10 UTC
+            updated_at: 2017-02-10 05:36:10 UTC
+               plan_id: 1
+ stripe_customer_token: 
+********************************* 3. row *********************************
+                    id: 3
+                 email: brodie@84.com
+    encrypted_password: $2a$11$J2JalFAac/yHvjFJtoKEUuRe/USoBbjXiPUUFbw1axl4kTEdgxnZC
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-10 05:36:47 UTC
+       last_sign_in_at: 2017-02-10 05:36:47 UTC
+    current_sign_in_ip: 49.193.25.189
+       last_sign_in_ip: 49.193.25.189
+            created_at: 2017-02-10 05:36:47 UTC
+            updated_at: 2017-02-10 05:36:47 UTC
+               plan_id: 1
+ stripe_customer_token: 
+********************************* 4. row *********************************
+                    id: 4
+                 email: harding@brodie.com
+    encrypted_password: $2a$11$BUQv2JwpwH5vCPGGs7385OIdMaG9FCpT84Kot/NcwqOsUAhQmOGTm
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-10 05:37:27 UTC
+       last_sign_in_at: 2017-02-10 05:37:27 UTC
+    current_sign_in_ip: 49.193.25.189
+       last_sign_in_ip: 49.193.25.189
+            created_at: 2017-02-10 05:37:27 UTC
+            updated_at: 2017-02-10 05:37:27 UTC
+               plan_id: 2
+ stripe_customer_token: cus_A5iXPxHNerobXA
+********************************* 5. row *********************************
+                    id: 5
+                 email: harding@harding.com
+    encrypted_password: $2a$11$BzchTCYC6prOapyJ7TJF2O9SND3pYAaOUlGfSjVZB3wfIsMSAXI3C
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-10 05:37:44 UTC
+       last_sign_in_at: 2017-02-10 05:37:44 UTC
+    current_sign_in_ip: 49.193.25.189
+       last_sign_in_ip: 49.193.25.189
+            created_at: 2017-02-10 05:37:44 UTC
+            updated_at: 2017-02-10 05:37:44 UTC
+               plan_id: 1
+ stripe_customer_token: 
+********************************* 6. row *********************************
+                    id: 6
+                 email: asf@asdoih.com
+    encrypted_password: $2a$11$2UN3v13apAtF.SwUXBXC6O27vDrQ6td3DC9j26U1ukL.o5tSq7K8y
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-10 05:41:59 UTC
+       last_sign_in_at: 2017-02-10 05:41:59 UTC
+    current_sign_in_ip: 49.193.25.189
+       last_sign_in_ip: 49.193.25.189
+            created_at: 2017-02-10 05:41:59 UTC
+            updated_at: 2017-02-10 05:41:59 UTC
+               plan_id: 1
+ stripe_customer_token: 
+********************************* 7. row *********************************
+                    id: 7
+                 email: dasdsa@asdas.com
+    encrypted_password: $2a$11$PBh8QsMsaSc3TP4KmtvB4OEi.f6kBsDjG.52UgPQNGyj9IagYJlV2
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-10 05:53:51 UTC
+       last_sign_in_at: 2017-02-10 05:53:51 UTC
+    current_sign_in_ip: 49.193.25.189
+       last_sign_in_ip: 49.193.25.189
+            created_at: 2017-02-10 05:53:51 UTC
+            updated_at: 2017-02-10 05:53:51 UTC
+               plan_id: 1
+ stripe_customer_token: 
+********************************* 8. row *********************************
+                    id: 8
+                 email: broaishd@dhasio.com
+    encrypted_password: $2a$11$le8lPzqEbtGA.R6c.ptk8uwFEujl/BPlRFSSNs8dvj0pY.ZFXI16C
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-10 06:58:28 UTC
+       last_sign_in_at: 2017-02-10 06:58:28 UTC
+    current_sign_in_ip: 49.193.25.189
+       last_sign_in_ip: 49.193.25.189
+            created_at: 2017-02-10 06:58:28 UTC
+            updated_at: 2017-02-10 06:58:28 UTC
+               plan_id: 2
+ stripe_customer_token: cus_A5jqwwnGyPOIEa
+********************************* 9. row *********************************
+                    id: 9
+                 email: hasodiuh@dasiodj.com
+    encrypted_password: $2a$11$.Xz4xm4oKNu6tjnDked2eeIsoi3giElrZW6aFLeuPJzs7TibRh9aC
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-10 06:59:21 UTC
+       last_sign_in_at: 2017-02-10 06:59:21 UTC
+    current_sign_in_ip: 1.128.96.53
+       last_sign_in_ip: 1.128.96.53
+            created_at: 2017-02-10 06:59:20 UTC
+            updated_at: 2017-02-10 06:59:21 UTC
+               plan_id: 2
+ stripe_customer_token: cus_A5jr5fWulRwhqr
+********************************* 10. row *********************************
+                    id: 10
+                 email: asdh@dashiodj.com
+    encrypted_password: $2a$11$wORxPwQ.40IKIGyOmeEziOzUtrcoCHGTN2/eD0Q3r1vmx4EEJThnG
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-10 07:08:12 UTC
+       last_sign_in_at: 2017-02-10 07:08:12 UTC
+    current_sign_in_ip: 1.128.96.53
+       last_sign_in_ip: 1.128.96.53
+            created_at: 2017-02-10 07:08:12 UTC
+            updated_at: 2017-02-10 07:08:12 UTC
+               plan_id: 1
+ stripe_customer_token: 
+********************************* 11. row *********************************
+                    id: 11
+                 email: ahdioh@fhasiod.com
+    encrypted_password: $2a$11$1SQeuQevn7m97ROe50I1COQnpZB./AaLZigItY7Lll1lFHs.F2eaW
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-10 07:08:29 UTC
+       last_sign_in_at: 2017-02-10 07:08:29 UTC
+    current_sign_in_ip: 1.128.96.53
+       last_sign_in_ip: 1.128.96.53
+            created_at: 2017-02-10 07:08:29 UTC
+            updated_at: 2017-02-10 07:08:29 UTC
+               plan_id: 1
+ stripe_customer_token: 
+********************************* 12. row *********************************
+                    id: 12
+                 email: broasd@hdasiod.com
+    encrypted_password: $2a$11$RK7TZbCTJ.Yn/NKFgxeEI.JI3v9hgrM9X48Aw04ZrAJzFJ/0TsS.W
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-10 07:44:37 UTC
+       last_sign_in_at: 2017-02-10 07:44:37 UTC
+    current_sign_in_ip: 1.128.96.53
+       last_sign_in_ip: 1.128.96.53
+            created_at: 2017-02-10 07:44:37 UTC
+            updated_at: 2017-02-10 07:44:37 UTC
+               plan_id: 1
+ stripe_customer_token: 
+********************************* 13. row *********************************
+                    id: 13
+                 email: brodie@hardingb.com
+    encrypted_password: $2a$11$MTHBc6hIYXgsL5Bc.HgDje97awcVliB7/H3wlmXdBva8UGz0OK4b6
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-10 08:00:23 UTC
+       last_sign_in_at: 2017-02-10 08:00:23 UTC
+    current_sign_in_ip: 49.193.25.189
+       last_sign_in_ip: 49.193.25.189
+            created_at: 2017-02-10 08:00:23 UTC
+            updated_at: 2017-02-10 08:00:23 UTC
+               plan_id: 1
+ stripe_customer_token: 
+********************************* 14. row *********************************
+                    id: 14
+                 email: uodahio@hasdioj.com
+    encrypted_password: $2a$11$pAs4kGxw6.6CTFOKLKKKYOAi302tc6tyIZ64ZhOsa5pEeMvycwR6u
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-11 02:34:37 UTC
+       last_sign_in_at: 2017-02-11 02:34:37 UTC
+    current_sign_in_ip: 49.193.25.189
+       last_sign_in_ip: 49.193.25.189
+            created_at: 2017-02-11 02:34:37 UTC
+            updated_at: 2017-02-11 02:34:37 UTC
+               plan_id: 1
+ stripe_customer_token: 
+********************************* 15. row *********************************
+                    id: 15
+                 email: dsfsad@esadsa.com
+    encrypted_password: $2a$11$loqd9G.rPAeNuBUy8tJ6EuNcgu9.yT1mF4GcwUCy046q1Wx7hED3y
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-11 02:53:12 UTC
+       last_sign_in_at: 2017-02-11 02:53:12 UTC
+    current_sign_in_ip: 49.193.25.189
+       last_sign_in_ip: 49.193.25.189
+            created_at: 2017-02-11 02:53:12 UTC
+            updated_at: 2017-02-11 02:53:12 UTC
+               plan_id: 2
+ stripe_customer_token: cus_A636mMYoh7xnZp
+********************************* 16. row *********************************
+                    id: 16
+                 email: dsad@asdsa.com
+    encrypted_password: $2a$11$oKSS/6vNV6QqC0fnJWslS.l9tO/hoDilJxus07rlWIuNIp6UQtLuS
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-11 02:54:08 UTC
+       last_sign_in_at: 2017-02-11 02:54:08 UTC
+    current_sign_in_ip: 49.193.25.189
+       last_sign_in_ip: 49.193.25.189
+            created_at: 2017-02-11 02:54:06 UTC
+            updated_at: 2017-02-11 02:54:08 UTC
+               plan_id: 1
+ stripe_customer_token: 
+********************************* 17. row *********************************
+                    id: 17
+                 email: iosudha@adshio.com
+    encrypted_password: $2a$11$kgJkAYFE9xFa93rPnvYmzunFGKVOgRfhElzprADERgs2bOBCZyR7a
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-11 02:54:46 UTC
+       last_sign_in_at: 2017-02-11 02:54:46 UTC
+    current_sign_in_ip: 49.193.25.189
+       last_sign_in_ip: 49.193.25.189
+            created_at: 2017-02-11 02:54:46 UTC
+            updated_at: 2017-02-11 02:54:46 UTC
+               plan_id: 2
+ stripe_customer_token: cus_A6380intkJJS4K
+********************************* 18. row *********************************
+                    id: 18
+                 email: sadasdsadasd@adsji.com
+    encrypted_password: $2a$11$Hx.Khmq2MgH5fcCJuMvsOuPo1bkKkMeEAuXqJczqIhY/ZhZNd78xy
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2017-02-11 02:54:59 UTC
+       last_sign_in_at: 2017-02-11 02:54:59 UTC
+    current_sign_in_ip: 49.193.25.189
+       last_sign_in_ip: 49.193.25.189
+            created_at: 2017-02-11 02:54:59 UTC
+            updated_at: 2017-02-11 02:54:59 UTC
+               plan_id: 1
+ stripe_customer_token: 
+18 rows in set
